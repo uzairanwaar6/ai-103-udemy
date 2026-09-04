@@ -1,8 +1,11 @@
 from openai import OpenAI
+import os
+
+
 
 endpoint = "https://uzair-anwaar-6-2499-resource.services.ai.azure.com/openai/v1"
 deployment_name = "gpt-5-mini"
-api_key = "<your-api-key>"
+api_key = "9WfKkdPOmW2WYMxkJSPBtW3ORxT6gI1YoJ5KAWH3zP8B4jzTNBFgJQQJ99CHACHYHv6XJ3w3AAAAACOGspm4"
 
 client = OpenAI(
     base_url=endpoint,
