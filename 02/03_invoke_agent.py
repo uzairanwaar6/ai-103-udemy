@@ -1,6 +1,5 @@
 from azure.ai.projects import AIProjectClient
 from azure.identity  import DefaultAzureCredential
-from azure.ai.projects.models import PromptAgentDefinition, AgentDefinition
 
 END_POINT = "https://uzair-anwaar-6-2499-resource.services.ai.azure.com/api/projects/uzair-anwaar-6-2499"
 AGENT_NAME = "HelpDeskAgent"
