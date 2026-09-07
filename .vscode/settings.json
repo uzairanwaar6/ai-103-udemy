@@ -1,0 +1,11 @@
+{
+    "azureFunctions.projectSubpath": "docs\\04. Section Code\\03-cloudxeus-mcp",
+    "azureFunctions.deploySubpath": "docs\\04. Section Code\\03-cloudxeus-mcp",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 2,
+    "azureFunctions.mcpProjectType": "McpExtensionServer"
+}
